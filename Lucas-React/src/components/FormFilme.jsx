@@ -11,6 +11,7 @@ export default function FormFilme({ onAdd }) {
     setNome("");
     setGenero("");
   }
+  
 
   return (
     <div className="p-4">
